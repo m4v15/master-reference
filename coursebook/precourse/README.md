@@ -74,9 +74,13 @@ _Learning outcomes:_
 - Understand what the DOM is
 - Create, access, and style a DOM element
 
-_Resourcs:_  
-+ [Call Me Nick - DOM Manipulation Basics](http://callmenick.com/post/basics-javascript-dom-manipulation) will cover a lot of the basics.
+_Resources:_  
++ [Call Me Nick - DOM Manipulation Basics](https://web.archive.org/web/20170718105716/https://callmenick.com/post/basics-javascript-dom-manipulation) (archived version) will cover a lot of the basics.
++ [MDN article on "Manipulating Documents"](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) - useful for some further reading, if you'd like
 + [Appspot's DOM Tutorials: Exercises 1,2 & 3 only](https://dom-tutorials.appspot.com/static/index.html) will help put that into practice.
++ Bonus videos:
+  + [The DOM: What is the Document Object Model?](https://www.youtube.com/watch?v=80Mr2Z6Qikc) (includes some jQuery, but provides a useful overview and some vanilla JS examples)
+  + [Live coding intro to the DOM, with JS examples](https://www.youtube.com/watch?v=eaLKqoB9Fu0)
 
 ### Practical Project
 
@@ -122,15 +126,15 @@ For Everyone:
 
 - Install and manage Node.js using [nvm](https://github.com/creationix/nvm).  
 Note: We will be covering Node.js during the course. If you are curious and would like some background reading, [Art of Node](https://github.com/maxogden/art-of-node) is a great resource.
-- Install [Atom](https://atom.io/) - download the file or click "Build from source"
+- Install a text editor of your choice. We reccommend either: 
+  - [Atom](https://atom.io/)
+  - [VS Code](https://code.visualstudio.com/)
 - Install Chrome
 - [Setup SSH access to your Github account](https://help.github.com/articles/generating-an-ssh-key/)
-- Atom plugins:
-  - linter & linter-eslint
-  - open-in-browser
-  - autocomplete-paths
-  - pigments
-  - color-picker
 - Chrome extensions:
   - JSONView
   - Postman
+- Make sure to explore your editors plugin ecosystem for useful plugins:
+  - [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
+  - [Atom packages](https://atom.io/packages)
+  - ...but don't be overwhelmed, you don't _need_ to install anything further
