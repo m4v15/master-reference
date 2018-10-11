@@ -7,88 +7,37 @@
  - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/resources.md)
 
 ## Schedule
+Day 1|Day 2|Day 3|Day 4| Day 5 
+---|---|---|---|---
+Intro To NPM ~**0.5hr** |DOM Morning Challenge ~**1hr**|Traffic Lights Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
+Intro To Testing ~**0.5hr**|Pure functions Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
+Testing WS ~**2hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||Presentation planning ~**1hr**
+Roman Numerals Code Along ~**2hr**|Research + Presentations ~**3hr**||| Presentations ~**1hr**
+Biz Dev ~**2hr**|Event Loop video|||Stop Go Continues! ~**2hr**
 
-### Day 1
+### Links
+#### Day 1
 
-- 10:00 - 10:30 <br>
-[Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
-- 10:30 - 11:00 <br>
-[Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
+- [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
-- 11:00 - 13:00 <br>
-[Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
+- [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
 
-— LUNCH —
+- Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
-- 14:00 - 16:00 <br>
-Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
+#### Day 2
 
-- 16:00 - 18:00 <br>
-Business development / community engagement
+- Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 
-### Day 2
+- [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
-- 10:00 - 11:00 <br>
-Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
+- [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
-- 11:00 - 13:00 <br>
-[Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
+- [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
-— LUNCH —
+- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
-- 14.00 - 14.30
-[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+#### Day 3
 
-- 14.30 - 16:30 <br>
-[Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
-
-- 16:30 - 17:30 <br>
-Review and Present research topics
-
-- 17:30 - 18:00 <br>
-[Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
-
-### Day 3
-
-- 10:00 - 11:00 <br>
-Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
-
-- 11:00 - 13:00 <br>
-Start projects
-
-— LUNCH —
-
-- 14:00 - 17:00<br>
-Projects
-
-- 17:00 - 18:00<br>
-External speaker
-
-### Day 4
-
-- 10:00 - 13:00 <br>
-Projects
-
-— LUNCH —
-
-- 14:00 - 18:00
-Projects
-
-### Day 5
-
-- 10:00 - 11:00 <br>
-[Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-review.md)
-
-- 11:00 - 13:00 <br>
-Respond to issues
-
-— LUNCH —
-
-- 14:00-15:00 -Cohort Stop Go Continue (retrospective)
-
-- 15:00-15:40 - Team retrospectives
-
-- 15:40-17:00 - Presentations (20 mins per group)
-
-- 17:00-18:00 - External Speaker or Alumni Project Presentation
+- Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
