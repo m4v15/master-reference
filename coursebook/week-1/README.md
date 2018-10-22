@@ -20,7 +20,7 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 ### Links:
 
 #### Day 1
-- [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md)
+- Welcome talk
 - [Schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
 - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
 - [House rules](../general/house-rules.md)
@@ -44,5 +44,5 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 
 - [How to Code review](./codereviewintro.md)
 - [Plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
-- [Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
-- [Team retrospectives](./retrospectives.md#team-retrospective)
+- [Cohort Stop Go Continue (retrospective)](../general/retrospectives.md#cohort-retrospective)
+- [Team retrospectives](../general/retrospectives.md#team-retrospectives)
