@@ -22,10 +22,10 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 #### Day 1
 - Welcome talk
 - [Schedule](../)
-- [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
+- [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
 
-- [Introduction to Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
+- [Introduction to Pair Programming](./pair-programming.md)
 - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 - [Github Scavenger Hunt - master reference](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/github-scavenger-hunt.md)  
 #### Day 2
@@ -43,6 +43,6 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 #### Day 5
 
 - [How to Code review](./codereviewintro.md)
-- [Plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
+- [Plan presentations](../general/weekly-projects.md#project-presentation)
 - [Cohort Stop Go Continue (retrospective)](../general/retrospectives.md#cohort-retrospective)
 - [Team retrospectives](../general/retrospectives.md#team-retrospectives)
