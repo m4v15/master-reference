@@ -1,76 +1,43 @@
-## API week
+# Testing week
+
+## Menu
+ - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/learning-outcomes.md)
+ - [Research topics](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
+ - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+ - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/resources.md)
+
+## Schedule
+Day 1|Day 2|Day 3|Day 4| Day 5 
+---|---|---|---|---
+Intro To NPM ~**0.5hr** |DOM Morning Challenge ~**1hr**|Traffic Lights Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
+Intro To Testing ~**0.5hr**|Pure functions Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
+Testing WS ~**2hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||Presentation planning ~**1hr**
+Roman Numerals Code Along ~**2hr**|Research + Presentations ~**3hr**||| Presentations ~**1hr**
+Biz Dev ~**2hr**|Event Loop video|||Stop Go Continues! ~**2hr**
 
 ### Links
+#### Day 1
 
-* [Learning outcomes](/coursebook/week-3/learning-outcomes.md)
-* [Projects](/coursebook/week-3/project.md)
-* [Resources](/coursebook/week-3/resources.md)
-* Stop-Go-Continue: [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1), [Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue)
+- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
-### Schedule
+- [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
-#### DAY 1
+- [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
 
-- 10.00 - 10.15 <br /> Introduction and learning outcomes with week-3 mentors  
+- Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
-- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
+#### Day 2
 
-- 12.00 - 13.00 <br /> [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
+- Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 
--- LUNCHTIME 😋 --  
+- [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
-- 14.00 - 16.00 <br /> [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
+- [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
-- 16.00 - 18.00 <br /> Biz Dev / Community Engagement  
+- [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
+- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
-#### DAY 2
+#### Day 3
 
-- 10:00 - 10:45 <br />
-[Flexbox Froggy](http://flexboxfroggy.com/)
-- 10:45 - 11:45 <br />
-[Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
-- 11.45 - 13.00 <br />
-[Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
-
--- LUNCHTIME 😋 --  
-
-- 14.00 - 17.00 <br />
-[Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
-
-- 17.15 - 18.00 <br />
-[Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
-
-#### DAY 3
-
-- 10.00 - 11.00 <br /> [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
-
-- 11.00 - 13.00 <br /> Project Planning  
-
--- LUNCHTIME 😋 --
-
-- 14.00 - 17.00 <br /> Work on projects  
-
-#### DAY 4
-
-- 10.00 - 13.00 <br /> Projects  
-
--- LUNCHTIME 😋 --
-
-- 14.00 - 18.00 <br /> Projects (stop work at 18:00!)  
-
-#### DAY 5  
-
-- 10.00 - 11.00 <br /> Project code review  
-
-- 11.00 - 13.00 <br /> Respond to issues   
-
--- LUNCHTIME 😋 --
-
-- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
-
-- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
-
-- 15:40-17:00 - Presentations (20 mins per group)
-
-- 17:00-18:00 - External Speaker or Alumni Project Presentation
+- Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)

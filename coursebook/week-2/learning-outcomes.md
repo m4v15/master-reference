@@ -1,15 +1,33 @@
 ## Learning outcomes
 
-A wise old coder once said: "Refactoring your code without tests in place, is like playing Russian roulette." <br>
+You should gain an understanding of the following:
 
-This week you are going to learn about testing practices, methodologies and technologies. Here is a breakdown of the learning outcomes:
+### HTTP
+- What is HTTP?
+- What is an XMLHttpRequest?
+- What are HTTP methods and what are the different methods intended for?
+- What is an HTTP status code and what are the most common ones?
 
-- What testing is
-- Why we test our code
-- Understand the difference between unit & integration tests
-- The Test-driven Development (TDD) methodology
-- How the Red Green Refactor cycle works
-- How to set up and use npm and Tape
-- The importance of pure functions in testing
-- What callbacks are and how to use them
-- How to ping pong code in pairs
+### API
+- What is an API?
+- How do you use an xhr (XMLHttpRequest) to query an API?
+- What is the difference betwee the XHR (XMLHttpRequest) GET and POST methods?
+- What is an API key and why would you want to conceal it?
+- What is JSON? Why is this useful knowledge with regard to APIs?
+
+### ASYNC
+- What is a callback and why would you use one?
+- Why do we need asynchronous functionality in our code?
+- What do we mean by a "parallel function"?
+- Why are parallel functions useful when querying APIs?
+- How to implement a parallel function.
+
+### SOFTWARE ARCHITECTURE
+- The concept and importance of software architecture
+- File structure planning and how to white-board plan an app
+- The basic elements of software design in JavaScript, including closures, abstraction, module pattern.
+
+
+### FRONT-END SKILLS
+- How to apply Flexbox to page content in a responsive design.
+- Compatibility issues to be mindful of with Flexbox
