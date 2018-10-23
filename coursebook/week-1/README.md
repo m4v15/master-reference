@@ -24,10 +24,10 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 - [Schedule](../)
 - [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
-
 - [Introduction to Pair Programming](./pair-programming.md)
 - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 - [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)  
+
 #### Day 2
 - [DOM challenges](https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php)
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
@@ -36,12 +36,10 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 - [Presentation Guidance](./presentation-guidance.md)
 
 #### Day 3
-
 - [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
 - [FAC Community talk](https://docs.google.com/presentation/d/1p-45WEiZ6QHacF9L-Xt1JwEpUrwgxHvLlgL5F-sw9os/edit?usp=sharing)
 
 #### Day 5
-
 - [How to Code review](./codereviewintro.md)
 - [Plan presentations](../general/weekly-projects.md#project-presentation)
 - [Cohort Stop Go Continue (retrospective)](../general/retrospectives.md#cohort-retrospective)
