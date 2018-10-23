@@ -27,7 +27,7 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 
 - [Introduction to Pair Programming](./pair-programming.md)
 - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
-- [Github Scavenger Hunt - master reference](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/github-scavenger-hunt.md)  
+- [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)  
 #### Day 2
 - [DOM challenges](https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php)
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
