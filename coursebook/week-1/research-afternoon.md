@@ -20,10 +20,10 @@
 
 ## CSS
 1. How and why to do responsive, mobile-first design?
-*. Modern Approaches to CSS:
-  - BEM
-  - Atomic CSS
-  - CSS in Javascript...
-  - Different ways of doing Layout in CSS (Float, Flexbox, Grid)
+1. Modern Approaches to CSS:
+    - BEM
+    - Atomic CSS
+    - CSS in Javascript...
+    - Different ways of doing Layout in CSS (Float, Flexbox, Grid)
 
 
