@@ -9,7 +9,6 @@
 1. What is semantic HTML - why is it useful?
 2. What is ARIA?
 3. Refactor one of your team's websites (or one from the rest of your cohort if necessary) to reflect what you've learned
-4. How and why to do responsive, mobile-first design?
 
 ## DOM manipulation
 1. How can you use JavaScript to create an HTML element and then add it to your webpage? How would you replace an existing element with it?
@@ -20,7 +19,8 @@
 6. What are the security concerns around `Element.innerHTML` and what could you use instead?
 
 ## CSS
-1. Modern Approaches to CSS:
+1. How and why to do responsive, mobile-first design?
+*. Modern Approaches to CSS:
   - BEM
   - Atomic CSS
   - CSS in Javascript...
