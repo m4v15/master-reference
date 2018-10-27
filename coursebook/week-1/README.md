@@ -24,7 +24,7 @@ Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
 - [Schedule](../)
 - [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
-- [Introduction to Pair Programming](./pair-programming.md)
+- Introduction to Pair Programming
 - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 - [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)  
 
