@@ -2,75 +2,41 @@
 
 ### Links
 
-* [Learning outcomes](/coursebook/week-3/learning-outcomes.md)
-* [Projects](/coursebook/week-3/project.md)
-* [Resources](/coursebook/week-3/resources.md)
-* Stop-Go-Continue: [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1), [Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue)
+* [Learning outcomes](/coursebook/week-2/learning-outcomes.md)
+* [Projects](/coursebook/week-2/project.md)
+* [Resources](/coursebook/week-2/resources.md)
 
 ### Schedule
+### Week 2
+Day 1|Day 2|Day 3|Day 4| Day 5 
+---|---|---|---|---
+Intro To API/HTTP/FETCH/patterns ~**2hr** |FlexBox Morning Challenges ~**1hr**|Traffic Light Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
+API WS ~**1hr**|Software Architechture Workshop (Scope, closures)~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
+Callback WS ~**2hr**|NPM + Software Design WS ~**3hr**|||Presentation planning ~**1hr**
+Biz Dev ~**2hr**|Event Loop~**1hr**||| Presentations ~**1hr**
+|||||Stop Go Continues! ~**2hr**
+
+### Links 
 
 #### DAY 1
 
-- 10.00 - 10.15 <br /> Introduction and learning outcomes with week-3 mentors  
-
-- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
-
-- 12.00 - 13.00 <br /> [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
-
--- LUNCHTIME 😋 --  
-
-- 14.00 - 16.00 <br /> [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
-
-- 16.00 - 18.00 <br /> Biz Dev / Community Engagement  
+- [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
+- [API workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, working with JSON, chaining API requests
+- [Callback Worshop](https://github.com/shiryz/call-it-back)
 
 
 #### DAY 2
 
-- 10:00 - 10:45 <br />
-[Flexbox Froggy](http://flexboxfroggy.com/)
-- 10:45 - 11:45 <br />
-[Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
-- 11.45 - 13.00 <br />
-[Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
+- [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
+- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
--- LUNCHTIME 😋 --  
 
-- 14.00 - 17.00 <br />
-[Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
-
-- 17.15 - 18.00 <br />
-[Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
 
 #### DAY 3
 
-- 10.00 - 11.00 <br /> [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
+- Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 
-- 11.00 - 13.00 <br /> Project Planning  
-
--- LUNCHTIME 😋 --
-
-- 14.00 - 17.00 <br /> Work on projects  
-
-#### DAY 4
-
-- 10.00 - 13.00 <br /> Projects  
-
--- LUNCHTIME 😋 --
-
-- 14.00 - 18.00 <br /> Projects (stop work at 18:00!)  
-
-#### DAY 5  
-
-- 10.00 - 11.00 <br /> Project code review  
-
-- 11.00 - 13.00 <br /> Respond to issues   
-
--- LUNCHTIME 😋 --
-
-- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
-
-- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
-
-- 15:40-17:00 - Presentations (20 mins per group)
-
-- 17:00-18:00 - External Speaker or Alumni Project Presentation
