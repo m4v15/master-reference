@@ -11,11 +11,11 @@
 
 Day 1|Day 2|Day 3|Day 4| Day 5 
 ---|---|---|---|---
-Welcome fun ~**2hr** |DOM Morning Challenge ~**1hr**|CSS Morning Challenge ~**1hr**| Projects| Code review (with how to) ~**1hr**
-Intro To PP ~**1hr**|Github Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
-DOM Workshop ~**1hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||Presentation planning ~**1hr**
-Github Hunt ~**1hr**|Research + Presentations ~**3hr**||| Presentations ~**1hr**
-Intro to communal Decision making ~**1hr**||||Stop Go Continues! ~**2hr**
+Welcome fun ~**2hr** |DOM Morning Challenge ~**1hr**|CSS Morning Challenge ~**1hr**| Projects| **8:30 - 9:30** Code review (with how to)
+Intro To PP ~**1hr**|Github Workshop ~**2hr**|Projects (all day!)|| **9:30 - 11:00** Respond to issues
+DOM Workshop ~**1hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||**11:00-11:30** Presentation planning
+Github Hunt ~**1hr**|Research + Presentations ~**3hr**|||**11:30 - 12:30** Presentations 
+Intro to communal Decision making ~**1hr**||||**12:30 - 14:00** Stop Go Continues!
 
 ### Links:
 
