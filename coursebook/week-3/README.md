@@ -9,16 +9,15 @@
 ## Schedule
 Day 1|Day 2|Day 3|Day 4| Day 5 
 ---|---|---|---|---
-Intro To NPM ~**0.5hr** |DOM Morning Challenge ~**1hr**|Traffic Lights Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
-Intro To Testing ~**0.5hr**|Pure functions Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
-Testing WS ~**2hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||Presentation planning ~**1hr**
-Roman Numerals Code Along ~**2hr**|Research + Presentations ~**3hr**||| Presentations ~**1hr**
-Biz Dev ~**2hr**|Event Loop video|||Stop Go Continues! ~**2hr**
+|**8:30 - 9:30** Intro To Testing |Array Morning Challenge ~**1hr**|Waterfall Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
+|Testing WS ~**2hr**|Pure functions Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
+|Roman Numerals Code Along ~**2hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||Presentation planning ~**1hr**
+|Biz Dev ~**2hr**|Research + Presentations ~**3hr**||| Presentations ~**1hr**
+|||||Stop Go Continues! ~**2hr**
 
 ### Links
-#### Day 1
 
-- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+#### Day 1
 
 - [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
@@ -28,7 +27,7 @@ Biz Dev ~**2hr**|Event Loop video|||Stop Go Continues! ~**2hr**
 
 #### Day 2
 
-- Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
+- Morning challenge - [Array manipulation](https://github.com/foundersandcoders/mc-objects-and-array-methods-mashup)
 
 - [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
@@ -36,8 +35,6 @@ Biz Dev ~**2hr**|Event Loop video|||Stop Go Continues! ~**2hr**
 
 - [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
-- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
-
 #### Day 3
 
-- Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
+- [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
