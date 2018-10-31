@@ -34,7 +34,6 @@ You can choose to use other APIs if you prefer, but make sure to do your researc
 * A clearly defined user journey, documented in your readme.
 * A well-considered architecture for your app - think back to the workshops from the beginning of this week. Try to modularise your code, or break it down into separate files. Document any key decisions about how you structure your code in your readme!
 * Code: break your JavaScript down into small functions with a clear input and output; this will make it easy to write tests
-* Tests: you **must** write tests!
 * Design: aim for a responsive, mobile-first design
 * Accessibility: same as always, we'll be running your code through accessibility checkers
 * Take appropriate measures when it comes to [concealing private information](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) (i.e. your API key!)
@@ -42,6 +41,5 @@ You can choose to use other APIs if you prefer, but make sure to do your researc
 ### Keep in mind
 
 * If using a private API key, you won't be able to deploy to GitHub pages this week (if you're not using an API key, go for it!)
-* Try and do a little bit of TDD in pairs
 * Don't repeat yourself! Try to reuse and refactor bits of existing code where possible.
 * Minimise DOM manipulation to keep your app efficient
