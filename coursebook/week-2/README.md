@@ -21,7 +21,7 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 #### DAY 1
 
 - [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
-- [API workshop](https://github.com/m4v15/workshop-APIs) : making API requests in the browser, working with JSON, chaining API requests
+- [API workshop](https://github.com/m4v15/ws-github-api) : making API requests in the browser, working with JSON, chaining API requests
 - [Callback Worshop](https://github.com/shiryz/call-it-back)
 
 
