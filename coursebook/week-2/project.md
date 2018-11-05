@@ -29,10 +29,11 @@ You can choose to use other APIs if you prefer, but make sure to do your researc
 
 ### Requirements
 
-* Your app queries at least two APIs using the XMLHttpRequest method
+* Your app queries APIs using the fetch() method
 * Your app features some dynamic content
 * A clearly defined user journey, documented in your readme.
 * A well-considered architecture for your app - think back to the workshops from the beginning of this week. Try to modularise your code, or break it down into separate files. Document any key decisions about how you structure your code in your readme!
+* User stories in issues!
 * Code: break your JavaScript down into small functions with a clear input and output; this will make it easy to write tests
 * Design: aim for a responsive, mobile-first design
 * Accessibility: same as always, we'll be running your code through accessibility checkers
