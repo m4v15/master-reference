@@ -1,6 +1,6 @@
 ## API week project
 
-Your project this week is to build a simple web app (ideally just a single page). You must query at least two APIs and use the results to update the DOM.
+Your project this week is to build a simple web app (ideally just a single page). You must query an API and use the result to update the DOM.
 
 What you choose to build and how you choose to display the data is entirely up to you!
 
@@ -37,6 +37,10 @@ You can choose to use other APIs if you prefer, but make sure to do your researc
 * Design: aim for a responsive, mobile-first design
 * Accessibility: same as always, we'll be running your code through accessibility checkers
 * Take appropriate measures when it comes to [concealing private information](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) (i.e. your API key!)
+
+#### Stretch Goal
+
+* Query a second API!
 
 ### Keep in mind
 
