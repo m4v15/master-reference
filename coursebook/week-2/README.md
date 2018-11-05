@@ -11,7 +11,7 @@
 Day 1|Day 2|Day 3|Day 4| Day 5 
 ---|---|---|---|---
 **8:30 - 10:30** Intro To API/HTTP/FETCH/patterns|**8:30 - 9:30** FlexBox Morning Challenges |**8:30 - 9:30** Traffic Light Morning Challenge| Projects| **8:30 - 9:30** Code review
-**10:30 - 12:30** API WS |**9:30 - 11:30** Software Architechture Workshop (Scope, closures)~**2hr**|Projects (all day!)|| **9:30 - 11:30** Respond to issues
+**10:30 - 12:30** API WS |**9:30 - 11:30** Software Architechture Workshop|Projects (all day!)|| **9:30 - 11:30** Respond to issues
 **13:00 - 15:00** Callback WS|**11:30-12:00** Intro to NPM|||**11:30-12:30** Presentation planning
 **15:00 - 16:00** Event Loop|**12:30 - 15:30** Software Design WS||| **13:00 - 14:00** Presentations 
 |||||**14:00-16:00** Stop Go Continues!
