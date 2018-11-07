@@ -1,10 +1,10 @@
 # Testing week
 
 ## Menu
- - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/learning-outcomes.md)
- - [Research topics](https://github.com/m4v15/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
- - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
- - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/resources.md)
+ - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/learning-outcomes.md)
+ - [Research topics](https://github.com/m4v15/master-reference/blob/master/coursebook/week-3/research-afternoon.md)
+ - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project)
+ - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/resources.md)
 
 ## Schedule
 Day 1|Day 2|Day 3|Day 4| Day 5 
@@ -33,7 +33,7 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 
 - [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
-- [Research](https://github.com/m4v15/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
+- [Research](https://github.com/m4v15/master-reference/blob/master/coursebook/week-3/research-afternoon.md)
 
 #### Day 3
 
