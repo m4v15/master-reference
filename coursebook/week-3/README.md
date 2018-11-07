@@ -27,7 +27,7 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 
 #### Day 2
 
-- Morning challenge - [Array manipulation](https://github.com/foundersandcoders/mc-objects-and-array-methods-mashup)
+- Morning challenge - [Traffic Lights](https://github.com/foundersandcoders/traffic-lights)
 
 - [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
