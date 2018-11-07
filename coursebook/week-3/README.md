@@ -9,7 +9,7 @@
 ## Schedule
 Day 1|Day 2|Day 3|Day 4| Day 5 
 ---|---|---|---|---
-|**8:30 - 9:30** Intro To Testing |Array Morning Challenge ~**1hr**|Waterfall Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
+|**8:30 - 9:30** Intro To Testing |Traffic Lights Morning Challenge ~**1hr**|Waterfall Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
 |Testing WS ~**2hr**|Pure functions Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
 |Roman Numerals Code Along ~**2hr**|Introduce Project and research ~**1hr**| Community Talk ~**1hr**||Presentation planning ~**1hr**
 |Biz Dev ~**2hr**|Research + Presentations ~**3hr**||| Presentations ~**1hr**
