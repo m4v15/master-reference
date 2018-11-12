@@ -7,9 +7,10 @@
 - When would you use each kind of test?
 
 ### Testing methodologies
-- When is best to do TDD, and when is it better to just write code?
 - What are some popular testing frameworks?
 - How and why are they different?
+- What are some common testing methods - eg `test.equal` `test.Ok`
+- What is the difference between `equal` and ``deepEqual`
 - Hints: QUnit, Jest, Tape 
 
 ### Test coverage
