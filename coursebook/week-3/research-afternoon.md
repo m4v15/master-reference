@@ -10,7 +10,7 @@
 - What are some popular testing frameworks?
 - How and why are they different?
 - What are some common testing methods - eg `test.equal` `test.Ok`
-- What is the difference between `equal` and ``deepEqual`
+- What is the difference between `equal` and `deepEqual`
 - Hints: QUnit, Jest, Tape 
 
 ### Test coverage
