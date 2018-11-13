@@ -3,7 +3,7 @@
 ## Menu
  - [Learning outcomes](./learning-outcomes.md)
  - [Research topics](./research-afternoon.md)
- - [Project](./week-3/project)
+ - [Project](./project)
 
 ## Schedule
 Day 1|Day 2|Day 3|Day 4| Day 5 
@@ -30,9 +30,9 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 
 - [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
-- [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+- [Introduce Project](./project)
 
-- [Research](https://github.com/m4v15/master-reference/blob/master/coursebook/week-3/research-afternoon.md)
+- [Research](./research-afternoon.md)
 
 #### Day 3
 
