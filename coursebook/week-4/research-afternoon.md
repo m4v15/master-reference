@@ -33,18 +33,7 @@ One of the best things about Node is the ease with which you can incorporate oth
 - *Working with URLs (the `url` and `querystring` modules)*: What is a `urlObject` and how is it structured? Why is it important to be able to turn JavaScript objects into querystrings and back again? Why is it a bad idea to build a query string manually from other strings (think about URL encoding and escape characters)?
 
 
-### Topic 3: Packaging
-
-- *Dependencies*: What is a dependency? Why might you want to use a dependency in your project, rather than writing the code from scratch? What have traditionally been some of the issues with managing dependencies?
-
-- *NPM*: What is a package manager? How does it help with dependencies? What is `package.json`, and what does `npm init` do? How do you use an installed package in your code?
-
-- *`npm install`*: What is the difference between installing a package globally, installing it as a dependency, or installing it as a development dependency? When would you use each? How would you do each in the command line? Why is it normally a bad idea to install a package globally?
-
-- *Package files*: Where does NPM install packages? Why is it important to make sure that installed packages aren't included in your repositories? How do you prevent Git from including these files in your repository? 
-
-
-### Topic 4: Deploying
+### Topic 3: Deploying
 
 - *Cloud platforms*: What is PaaS? Why is it useful to be able to deploy your code to a cloud platform, rather than running it locally? What services are there that can provide you with a platform for your code? [Heroku](http://www.heroku.com) is a good start, but try to find some others. If you have time, try to deploy a simple server to Heroku as a demo.
 
