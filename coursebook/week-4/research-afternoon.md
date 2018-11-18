@@ -67,7 +67,7 @@
   - What modules might you use to help manage environment variables? (Look at [env2](https://github.com/dwyl/env2) from our neighbours at DWYL.) If you can, write some sample code to show how it works.
   
  - *NPM*
-  - What are some common scripts to have in your `package.json`
-  - What is the difference between `package.json` and `package-lock.json`
-  - What npm scripts to cloud platforms like heroku use?
+   - What are some common scripts to have in your `package.json`
+   - What is the difference between `package.json` and `package-lock.json`
+   - What npm scripts to cloud platforms like heroku use?
  
