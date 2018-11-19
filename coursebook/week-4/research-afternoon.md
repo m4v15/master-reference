@@ -70,5 +70,5 @@
  - *NPM*
    - What are some common scripts to have in your `package.json`
    - What is the difference between `package.json` and `package-lock.json`
-   - What npm scripts to cloud platforms like heroku use?
+   - What npm scripts do cloud platforms like heroku use?
  
