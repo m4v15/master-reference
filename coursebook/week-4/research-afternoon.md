@@ -24,7 +24,8 @@
   - What are some of the pros and cons of using Node in your stack, rather than one of those alternatives?
 
 - *Writing for different environments*: 
-  - Why might you have to write JavaScript differently if it's going to run in the browser, rather than in Node? 
+  - Why might you have to write JavaScript differently if it's going to run in the browser, rather than in Node?
+  - How can we check if Javascript functions are ES5 or ES6? How can we find out what browsers will run them
   - What tools can help make it so you don't have to do that - what is **babel** and why would you use it?
 
 
