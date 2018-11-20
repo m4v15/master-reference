@@ -13,8 +13,9 @@
 3. (Bonus) Allow an additional argument to be provided in the command to specify a time interval of how often a chunk of text from the file is streamed to the terminal. E.G `node bigtextfile.txt 1s`
 
 ## Linting!
-1. Research what linting is and why it is very useful?
-1. What is es-lint?
+1. Research what linting is and why it is very useful? What is es-lint?
 1. Install es-lint in an old project of yours following their getting started guide
-1. What are some of the commands you can use with es-lint? How do you configure it?
+1. What are some of the commands you can use with es-lint? How do you configure it (style guide vs. your own configuration)?
 1. How can you set up your editor to show you the linting issues?
+1. How can you ignore a line or a file in es-lint
+
