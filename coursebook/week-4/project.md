@@ -14,13 +14,15 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 #### Goals
 
-1) We expect __back-end testing using tape__ (test as many components as you can) and basic __front-end testing__. Please note that we expect tests on _pure functions_ and _not_ on the router.
+1. White board your app with the front end functions and the back end functions - you should be able to say everything that happens in the app when the user types: eg: Event Listener fires a request to 'x' endpoint - this end point does 'x' and sends back 'x', the front end then does 'x'
 
-2) Host your project on __heroku__, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
+1. We expect __back-end testing using tape__ (test as many components as you can) and basic __front-end testing__. Please note that we expect tests on _pure functions_ and _not_ on the router.
 
-3) Use __module.exports__ and __require__ to break a single large server file into smaller modules.
+1. Host your project on __heroku__, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
 
-4) Consider what would be a good __server file structure__ based on what we have discussed over the week.
+1. Use __module.exports__ and __require__ to break a single large server file into smaller modules.
+
+1. Consider what would be a good __server file structure__ based on what we have discussed over the week.
 
 
 #### Example
