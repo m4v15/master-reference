@@ -1,10 +1,5 @@
 # Research Afternoon
 
-## Node Shell project
-
-1. Using the instructions [here](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md), create your own test output formatter (a test output formatter is a program that when you pipe the results of your tests into, will read the results of those tests and provide you with useful information about them e.g. `tap-spec`, `tap-nyan`)
-2. (Bonus) Publish your package to [npm](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md#publishing-to-npm)
-
 ## Continuous Integration
 
 1. Research what Continuous Integration is and what assurances it can provide when building an application.
@@ -17,8 +12,9 @@
 2. Create a Node project that lets a user run the command `node bigtextfile.txt` in the same directory as bigtextfile.txt and **stream** the contents of the file to the users terminal. Need a big file? How about a [book](https://www.gutenberg.org/).
 3. (Bonus) Allow an additional argument to be provided in the command to specify a time interval of how often a chunk of text from the file is streamed to the terminal. E.G `node bigtextfile.txt 1s`
 
-## Make a request from the server
-
-1. Research what npm modules are available to make a request from a node server to another server (equivalent of XMLHttpRequest for the server).
-2. Using a module of your choice, create a node server which makes a request to an online API (it's up to you what one you'd like to use, I'd recommend either [Unsplash.it](https://unsplash.it/), [Guardian](http://open-platform.theguardian.com/), [Tesco](https://devportal.tescolabs.com/), or [Recipe Puppy](http://www.recipepuppy.com/)), then serve the response when a client requests the home ('/') route of your server.
-3. (Bonus), when the server receives the API response, instead of serving the response at the home route, make another GET request to a different API, then combine that response with the original response and serve it to the home route.
+## Linting!
+1. Research what linting is and why it is very useful?
+1. What is es-lint?
+1. Install es-lint in an old project of yours following their getting started guide
+1. What are some of the commands you can use with es-lint? How do you configure it?
+1. How can you set up your editor to show you the linting issues?
