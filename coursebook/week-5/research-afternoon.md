@@ -16,6 +16,7 @@
 1. Research what linting is and why it is very useful? What is es-lint?
 1. Install es-lint in an old project of yours following their getting started guide
 1. What are some of the commands you can use with es-lint? How do you configure it (style guide vs. your own configuration)?
+1. How do you disable eslint on single lines and in files? Explain why you shouldn't disable eslint rules in most cases.
 1. How can you set up your editor to show you the linting issues?
 1. How can you ignore a line or a file in es-lint
 
