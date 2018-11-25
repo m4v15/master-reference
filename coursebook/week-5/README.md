@@ -12,7 +12,7 @@
 
 - 12:45 - 15:00 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
 
-- 15:00 - 16:00 - [CSS Variables Challenge](https://github.com/jema28/mc-airbnb-css)
+- 15:00 - 16:00 - [CSS design challenge](https://github.com/jema28/mc-airbnb-css)
 
 #### Day 2
 
