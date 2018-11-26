@@ -4,48 +4,46 @@
 
 #### Day 1:
 
-10am - 11am: whiteboard walkthrough with introduction to the topic of relational databases and SQL
+8:30am - 9:30am: whiteboard walkthrough with introduction to the topic of
+relational databases and SQL
 
-11am - 1pm: [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
-, those who finish installing can help others with installation problems.
-Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/) and work through in pairs if time remaining (help each other first)!
+9:30am - 12pm:
+[installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
+, those who finish installing can help others with installation problems. Then
+go to
+[`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/)
+and work through in pairs if time remaining (help each other first)!
 
-1pm - 2pm: lunchtime 😋
+12:00pm - 12:45pm: lunchtime 😋
 
-2pm - 4.00pm: [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
+12:45pm - 2.45pm:
+[workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
 
 4.00pm - 6pm: biz dev and community outreach
 
 #### Day 2:
 
-10am - 11.30am: [pg module code along](https://github.com/foundersandcoders/pg-walkthrough)
+8:30am - 10.00am:
+[pg module code along](https://github.com/foundersandcoders/pg-walkthrough)
 
-11.30am - 1pm: [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop)
+10:00am - 12:00pm:
+[workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop)
 
-1pm - 2pm: lunchtime 😋
+12pm - 12:45pm: lunchtime 😋
 
-2:00pm - 3:00pm
--- [Database Testing](https://github.com/foundersandcoders/ws-database-testing/)
+12:45pm - 1:45pm --
+[Database Testing](https://github.com/foundersandcoders/ws-database-testing/)
 
-3:00pm - 3:30pm
--- [Introduce Project](./project.md)
-
-3:30pm - 3:45pm:
--- Intro to research topics for research afternoon
-
-3.45pm - 5:15pm:
--- [Research Afternoon](./research-afternoon.md)
-
-5.15pm - 6:00pm:
--- Review and Present research topics
-
+2:45pm - 4:00pm -- [Introduce Project](./project.md) --
+[Research Afternoon](./research-afternoon.md) -- Review and Present research
+topics
 
 #### Day 3
 
-10am - 11am: [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
+8:30am - 9:30am:
+[morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
 
-11am onwards: projects
-
+9:30am onwards: projects
 
 #### Day 4
 
@@ -53,18 +51,17 @@ Continue work on projects
 
 #### Day 5
 
-10am - 11am: code reviews
+8:30am -9:30am: code reviews
 
-11am - 12pm: responding to issues
+9:30am - 11:30pm: responding to issues
 
-12:40 - 1pm: preparing presentations
+11:30 - 12:00pm: preparing presentations
 
-1pm - 2pm: lunchtime 😋
+12:00pm - 12:45pm: lunchtime 😋
 
-14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
+12:45pm-2:15pm: - Presentations (20-30 mins per group)
 
-15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
+2:20pm-3:20pm: -
+[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
-15:40-17:00 - Presentations (20 mins per group)
-
-17:00-18:00 - External Speaker or Alumni Project Presentation
+3:20pm-4:00pm - [Team retrospectives](./retrospectives.md#team-retrospective)
