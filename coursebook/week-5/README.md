@@ -36,7 +36,9 @@
 
 - 9:45 - 10:15 - Introduction to linters
 
-- 10:20 - 12:00 - Projects
+- 10:20 - 10:35 - Introduction to projects 
+
+- 10:35 - 12:00 - Projects
 
 — LUNCH —
 
