@@ -16,7 +16,7 @@
 
 #### Day 2
 
-- 8:30 - 12:00 - [Modules Workshop](https://github.com/astroash/going-on-a-bear-hunt)
+- 8:30 - 12:00 - [Modules Workshop](https://github.com/m4v15/going-on-a-bear-hunt)
 
 
 — LUNCH —
