@@ -32,13 +32,19 @@
 
 #### Day 3
 
-- 8:30 - 9:30 - [Node shell workshop PT 1](https://github.com/foundersandcoders/Node-Shell-Workshop/)
+- 8:30 - 9:45 - [Node shell workshop PT 1](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
-- 9:45 - 12:00 - Projects
+- 9:45 - 10:15 - Introduction to linters
+
+- 10:20 - 10:35 - Introduction to projects 
+
+- 10:35 - 12:00 - Projects
 
 — LUNCH —
 
-- 12:45 - 16:00 - Projects
+- 12:45 - 13:15 - Design Burst
+
+- 13:15 - 16:00 - Projects
 
 #### Day 4
 
