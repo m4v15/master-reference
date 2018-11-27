@@ -19,11 +19,7 @@ and work through in pairs if time remaining (help each other first)!
 12:45pm - 2.45pm:
 [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
 
-<<<<<<< HEAD
 3:00pm - 4:00pm: Color Workshop
-=======
-3pm-4pm: Coding Challenge
->>>>>>> 470478609cf5947e9332b5cfb63e6495d27c1e40
 
 #### Day 2:
 
