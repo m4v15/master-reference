@@ -19,7 +19,7 @@ and work through in pairs if time remaining (help each other first)!
 12:45pm - 2.45pm:
 [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
 
-3:00pm - 4:00pm: Color Workshop
+3:00pm - 4:00pm: Git Command Line Customisations + Design Resources
 
 #### Day 2:
 
@@ -43,8 +43,6 @@ Present research topics
 
 8:30am - 9:30am:
 [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
-
-9:30am - 10:00am Design Resources
 
 9:30am 3:00pm: projects
 
