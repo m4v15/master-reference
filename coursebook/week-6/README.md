@@ -44,7 +44,7 @@ Present research topics
 8:30am - 9:30am:
 [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
 
-9:30am - 10:30am Design Burst
+9:30am - 10:00am Design Resources
 
 9:30am 3:00pm: projects
 
