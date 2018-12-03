@@ -2,21 +2,24 @@
 
 #### Day 1
 
-- 10:00 - 10:15 - Introduction to [learning outcomes](./learning-outcomes.md)
+- 8:45 - 9:00 - Introduction to [learning outcomes](./learning-outcomes.md)
 
-- 10:15 - 11:00 - Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view)
+- 9:00 - 9:30 - Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view)
 
-- 11:00 - 13:00 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
+- 9:30 - 10:30 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
+
+- 10:30 - 10:45 break
+
+- 10:45 - 12:00 Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies) PT 1
 
 — LUNCH —
 
-- 14:00 - 16:00 - Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies)
+- 12:45 - 13:45 Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies) PT 2
 
-- 16:00 - 18:00 - Business development
+- 14:00 - 16:00 - Afternoon Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
 #### Day 2
 
-- 10:00-11:00 - Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
 - 11:00-13:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 
