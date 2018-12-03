@@ -19,47 +19,39 @@
 
 #### Day 2
 
+- ?? Mavis' MC?
 
-- 11:00-13:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
-
+- 10:00 - 12:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 
 — LUNCH —
 
-- 14:00 - 14:30 - [Introduce project](./project.md)
+- [Introduce project](./project.md)
 
-- 14:30 - 14:45 - Introduce [research topics](./research-afternoon.md)
-
-- 14.45 - 17:00 - [Research afternoon](./research-afternoon.md)
-
-- 17.00 - 18:00 - Review and Present research topics
+- [Research afternoon](./research-afternoon.md)
 
 #### Day 3
 
-- 10:00 - 11:00 - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 8:45 - 9:45 Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
-- 11:00 - 13:00 - Projects (planning)
+- Projects
 
 — LUNCH —
 
-- 14:00 - 17:00 - Projects
+- Projects
 
-- 17:00 - 18:00 - External speaker or alumni project presentation
+- External speaker
 
 #### Day 4
 
-- 10:00 - 13:00 - Projects
-
-— LUNCH —
-
-- 14:00 - 18:00 - Projects
+- Projects
 
 #### Day 5
 
-- 10:00 - 11:00 - Code review
+- Code review
 
-- 11:00 - 12:45 - Respond to issues
+- Respond to issues
 
-- 12:45 - 13:00 - Plan presentations
+- Plan presentations
 
 — LUNCH —
 
@@ -68,5 +60,3 @@
 - 15:00-15:40 - [Team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospective)
 
 - 15:40-17:00 - Presentations (20 mins per group)
-
-- 17:00-18:00 - External speaker or alumni project presentation
