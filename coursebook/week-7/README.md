@@ -19,19 +19,19 @@
 
 #### Day 2
 
-- ?? Mavis' MC?
+- 8:45 - 9:45 Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
 - 10:00 - 12:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 
 — LUNCH —
 
-- [Introduce project](./project.md)
-
 - [Research afternoon](./research-afternoon.md)
+
+- [Introduce project](./project.md)
 
 #### Day 3
 
-- 8:45 - 9:45 Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- MC?
 
 - Projects
 
