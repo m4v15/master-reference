@@ -9,11 +9,11 @@
 
 - 10:30 - 10:45 break
 
-- 10:45 - 12:00 Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies) PT 1
+- 10:45 - 12:00 Workshop on [cookies](https://github.com/shahenazmonia/ws-cookies) PT 1
 
 — LUNCH —
 
-- 12:45 - 13:45 Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies) PT 2
+- 12:45 - 13:45 Workshop on [cookies](https://github.com/shahenazmonia/ws-cookies) PT 2
 
 - 14:00 - 16:00 - Afternoon Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
