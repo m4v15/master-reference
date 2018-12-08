@@ -1,6 +1,19 @@
 ## Learning outcomes
 
-+ Password management (hashing, bcrypt)
-+ Cookie management (setting them, deleting them)
-+ Session management (signing cookies, JWTs)
-+ Secure routing
++ How to manage users' passwords safely
+  - hashing
+  - bcrypt
+  
+  
++ Cookies and session management
+  - setting and removing cookies
+  - stateless sessions
+  - JWTs
+  
+  
++ Implementing routes which require authentication
+
+
++ Input Validation
+  - client-side validation
+  - server-side validation
