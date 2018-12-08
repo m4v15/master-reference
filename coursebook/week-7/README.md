@@ -4,8 +4,8 @@
 
 - 8:45 - 9:00 - Introduction to [learning outcomes](./learning-outcomes.md)
 
-- 9:00 - 9:30 - [Presentation](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1) on password management
-- 9:30 - 10:30 - Workshop on [password management](https://github.com/foundersandcoders/ws-password-management)
+- 9:00 - 9:30 - [Presentation](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1) on password management - More information in [this readme](https://github.com/foundersandcoders/ws-password-management)
+- 9:30 - 10:30 - Workshop on [password management/hashing](https://github.com/m4v15/ws-password-hashing)
 
 - 10:30 - 10:45 break
 
