@@ -2,14 +2,14 @@
 
 #### Day 1
 
-- 8:45 - 9:00 - Introduction to [learning outcomes](./learning-outcomes.md)
+- 8:30 - 9:00 - Introduction to [learning outcomes](./learning-outcomes.md)
 
 - 9:00 - 9:30 - [Presentation](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1) on password management - More information in [this readme](https://github.com/foundersandcoders/ws-password-management)
-- 9:30 - 10:30 - Workshop on [password management/hashing](https://github.com/m4v15/ws-password-hashing)
+- 9:30 - 10:45 - Workshop on [password management/hashing](https://github.com/m4v15/ws-password-hashing)
 
-- 10:30 - 10:45 break
+- 10:45 - 11:00 break
 
-- 10:45 - 12:00 Workshop on [cookies](https://github.com/shahenazmonia/ws-cookies) PT 1
+- 11:00 - 12:00 Workshop on [cookies](https://github.com/shahenazmonia/ws-cookies) PT 1
 
 — LUNCH —
 
@@ -19,7 +19,7 @@
 
 #### Day 2
 
-- 8:45 - 9:45 Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 8:30 - 9:45 Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
 - 10:00 - 12:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 
@@ -31,7 +31,7 @@
 
 #### Day 3
 
-- MC?
+- 8:30 - 9:45 Morning challenge on [Flex-Box layout](https://github.com/m4v15/css-layout)
 
 - Projects
 
@@ -55,8 +55,6 @@
 
 — LUNCH —
 
-- 14:00-15:00 - [Cohort Stop Go Continue (retrospective)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
+- Presentations
 
-- 15:00-15:40 - [Team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospective)
-
-- 15:40-17:00 - Presentations (20 mins per group)
+- Stop Go Continue
