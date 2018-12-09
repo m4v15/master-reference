@@ -15,7 +15,7 @@
 
 - 12:45 - 13:45 Workshop on [cookies](https://github.com/shahenazmonia/ws-cookies) PT 2
 
-- 14:00 - 16:00 - Afternoon Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
+- 14:00 - 16:00 - Afternoon Challenge on [client side validation](https://github.com/mattlub/mc-client-side-validation)
 
 #### Day 2
 
