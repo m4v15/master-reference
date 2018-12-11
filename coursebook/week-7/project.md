@@ -20,6 +20,12 @@ The aim of the project is to fulfill the requirements below!
 + Any user-submitted content should be labelled with the authors username
 + Website content should be stored in a database
 + Username is visible on all (or some) pages of the site after logging in
++ Test your routes
 
-#### Examples
+### Hints
++ Plan everything on paper or a whiteboard! for example...
+  - db tables
+  - server routes
+
+### Examples
 You could use auth to make a game, a todo app, a twitter clone or whatever. :smile:
