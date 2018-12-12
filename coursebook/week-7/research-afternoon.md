@@ -13,7 +13,8 @@
 ### Web storage
 + What are local storage and session storage and what is the difference between the two?
 + Why would you use cookies vs local/session storage?
-+ Demo a simple usage of localStorage and sessionStorage
++ Think of use cases where local/session storage could be useful.
++ Demo a simple usage of localStorage and sessionStorage: setting, getting and removing an item in storage.  
 
 ### Attacks
 + What are the following types of attack?
