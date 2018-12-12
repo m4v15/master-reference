@@ -15,7 +15,7 @@
 
 13:00-15:00 - Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
 
-15:00-16:00 -  server side validation
+15:00-16:00 - [server side validation](https://github.com/shahenazmonia/server-side-validation)
 
 ### Day 2:
 
