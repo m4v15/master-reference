@@ -12,10 +12,9 @@ Build a server-rendered full-stack app
 
 The primary aim of this project is to get comfortable with setting up an Express server and to discover the awesomeness of Handlebars! Spend time considering how to format your layouts, partials and helper functions.
 
-Previous cohorts have built apps where users can share, for example, blog posts, jokes, photos etc. But the app can be about anything as long as you are covering project's technology tasks and goals.
 
 ### What's also important:
 
-- Include tests and set up code coverage.
-- Use Heroku or a similar service to host the app and the database.
-- Try to include ES6 syntax on the server.
+- Include express routes tests and set up code coverage.
+- Use Heroku to host the app and the database.
+- Include client/server validation.
