@@ -29,21 +29,17 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 
 --LUNCH--
 
-13:00 - 13:15 - Intro to research topics for research afternoon
+13:00 - 13:15 - [Introduce Project](./project.md)
 
-13:15 - 15:00 - [Research Afternoon](./research-afternoon.md)
+13:15 - 15:00 - Project Planning
 
-15:00 - 16:00 - Review and Present research topics
+15:00 - 16:00 - Present project's plan (README and issues)
 
 ### Day 3:
 
 8:45-9:45 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge)
 
-9:45 - 10:00 Break
-
-10:00-10:30 - Whiteboard Walkthrough + [Introduce Project](./project.md)
-
-10:30-12:00 - Project Planning
+9:45 - 12:00 - continue work on projects
 
 --LUNCH--
 
@@ -57,13 +53,15 @@ Continue work on projects
 
 8:45-9:45 - Code Review
 
-9:45-11:30 - Respond to issues
+9:45-10:15 - Respond to issues
 
-11:30-12:00 - Prepare Presentations
+10:15-11:00 - Prepare Presentations
+
+11:00 - 12:00 - Presentations (20 mins for each group)
 
 --LUNCH--
 
-13:00-14:15 - Presentations (20 mins for each group)
+13:00-13:45 - continue Presentations (20 mins for each group)
 
-14:15-15:15 - [Cohort Stop Go Continue
+1:45-2:15 - [Cohort Stop Go Continue
 (retrospective)](./retrospectives.md#cohort-retrospective)
