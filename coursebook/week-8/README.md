@@ -22,7 +22,10 @@
 8:45-9:45 - Morning Challenge - [Create an Animated App
 Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 
-10:00-12:00 - Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop)
+10:00-12:00 - Workshop 3 - Handlebars:
+    - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
+    - [Templating](https://github.com/m4v15/templating/)
+    - [Handlebars](https://github.com/m4v15/country-express)
 
 --LUNCH--
 
