@@ -31,7 +31,7 @@ Then
 Note: you may want to factor in technical spikes to your build time estimates, depending on your choice of tech stack.
 
 ## Starting work
-1. Write your initial `README.md`  
+1. Write your initial `README.md`, if you haven't done already.
 Remember: You will have a time slot ("Today I Learned" in the 2nd week) for a quick show and tell. If you update your documentation as you go, you can use this to showcase what you have learned to the rest of your cohort.
 
 1. With your mentor, set up your environment
