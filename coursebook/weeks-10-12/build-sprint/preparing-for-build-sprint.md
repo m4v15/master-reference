@@ -1,4 +1,4 @@
-Inspired by dwyl process handbook found [here]((https://github.com/dwyl/process-handbook)
+Inspired by dwyl process handbook found [here](https://github.com/dwyl/process-handbook)
 
 ## Preparing for your build sprint
 1. Break down your user journey into user stories
