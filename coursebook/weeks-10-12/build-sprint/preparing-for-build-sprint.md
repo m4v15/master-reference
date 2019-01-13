@@ -17,11 +17,11 @@ Each issue should contain:
 - a time estimate
 
 Decide on:
-    - File structure - folders and what will go in them, not necessarily every single file! Be consistent across the app. 
-    - Linting rules
-    - Naming conventionsfor files and variables - camelCase, kebab-case, snake_case
-    - Where to use es6 and es5
-    - How you will handle Asynchronous code
+- File structure - folders and what will go in them, not necessarily every single file! Be consistent across the app. 
+- Linting rules
+- Naming conventionsfor files and variables - camelCase, kebab-case, snake_case
+- Where to use es6 and es5
+- How you will handle Asynchronous code
 All of these things should go into your readme.
 
 Then
