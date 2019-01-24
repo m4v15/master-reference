@@ -50,7 +50,7 @@ BUILD!
 
 10.00 - 11.00 - **Presentation prep**
 - The Problem you are solving
-- [Demo of your solution](https://github.com/dwyl/process-handbook#sprint-demo-prep)
+- [Demo of your solution](https://github.com/dwyl/process-handbook#step-2---context)
 - User Testing feedback
 - What you would do in the next sprint
 - Show us some interesting code!
