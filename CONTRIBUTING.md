@@ -8,7 +8,7 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 + [Instructions for maintainers](#instructions-for-maintainers)
 
 ## Before starting work
-1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving.
+1. Search this repo's [issues](https://www.github.com/lotus-coding-school/master-reference/issues) to see if an issue exists for the problem you are solving.
 2. If the issue does not exist, create it. Include a descriptive body.
 3. If your new issue relates to any others, reference those issues in the body. This enables others to follow the history of the topic.
 4. Assign [the appropriate label](#labels).
@@ -59,8 +59,8 @@ Make sure your PR has the following
 2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
 3. Reference to any/all related issues in description.
 4. Assignees - add all the [maintainers of `master-reference`](https://github.com/foundersandcoders/master-reference/blob/master/ROLES.md) to every PR:
-   + [@eliascodes](https://github.com/eliascodes)
-   + [@m4v15](https://github.com/m4v15)
+   + [@shiryz](https://github.com/shiryz)
+   + [@MynahMarie](https://github.com/MynahMarie)
 5. Reviewers
    + add anyone other than the maintainers, who you think should be aware of you contents of your PR
     e.g. anyone else who has collaborated with you on this issue / anyone mentioned in the file you are uploading / mentors delivering this material in another campus
