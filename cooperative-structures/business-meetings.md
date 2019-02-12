@@ -10,7 +10,7 @@
 #### Before beginning a meeting:
 
 - Arrange seating in a _circle_ so everyone can see and hear each other during the discussion
-- Set up a video conference such as Google Hangouts and share the link on Gitter 
+- Set up a video conference such as Google Hangouts and share the link on Slack
 
 #### Facilitation team assigns roles:
 
