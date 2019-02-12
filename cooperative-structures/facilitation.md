@@ -1,4 +1,4 @@
-# Guide: Facilitating Meetings at Founders & Coders
+# Guide: Facilitating Meetings at Lotus
 
 Based on [A Short Guide to Facilitating Meetings](https://www.seedsforchange.org.uk/shortfacilitation), by Seeds for Change
 
