@@ -72,7 +72,7 @@ However you decide to individualise your site is up to you, but aim to satisfy t
 
 Your blog should have profiles of each of your group members and each profile should include links to your _Linkedin_, _Github_ and _Codewars_ accounts.
 
-## Publishing (Before 6PM Day 4)
+## Publishing (Before 3:30PM Day 4)
 
 * On completion, your site should be published via _github pages_. You may decide to publish early (perhaps to check how it looks on mobile?)
 * Your README should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site).
@@ -86,7 +86,7 @@ Your blog should have profiles of each of your group members and each profile sh
 * Ensure your site is accessible. We will be checking your site for it's accessibility coverage by using [a variety of accessibility tools](https://github.com/jsms90/web-accessibility#tools-that-can-help).
 * You should consider installing the Prettier plugin (code formatter) in your editors to ensure your team code is consistent. An easy step by step guide can be found here: https://prettier.io/.
 
-**Note: You should stop working on your profile after 6PM on day 4. This prevents someone from writing code which the other members of the team might not have seen before you present your project and allows everybody to be on the same wavelength.**
+**Note: You should stop working on your profile after 3:30PM on day 4. This prevents someone from writing code which the other members of the team might not have seen before you present your project and allows everybody to be on the same wavelength.**
 
 **On the morning of day 5, you'll be swapping code with another team and raising issues on their code, before resolving issues that you have received.**
 
