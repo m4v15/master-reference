@@ -1,4 +1,4 @@
-# Ubuntu Installation - Instructions and Troubleshooting :grimacing: :sweat: :tired_face:
+# Ubuntu Installation - Instructions and Troubleshooting :grimacing: :sweat:
 
 Helping the students to dual-boot ubuntu with Windows can be a bit of a pain for the mentors (especially for those with no experience of Windows).
 This document is meant to provide a step by step guide with the help of links to tutorials I've followed and which proved to be successful.
@@ -55,7 +55,7 @@ If the system throws an error after you clicked *Install*, **DO NOT PROCEED WITH
 
 ### The installation worked but Wifi is not working in Ubuntu
 
-This means that you are missing the drivers for your Wifi adapter. It's fairly simple to fix with some linux fu and googling :muscle:
+This means that you are missing the drivers for your Wifi adapter. It's fairly simple to fix with some linux fu and googling :muscle:.
 
 - Connect your phone to your computer with USB cable and [enable USB tethering](https://www.youtube.com/watch?v=LvMZW_ztf14). This will allow you to have internet on the computer to be able to download the necessary tools and drivers.
 - Open Terminal and start by doing update and upgrade of the system:
