@@ -76,7 +76,7 @@ Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Conne
 ```
 - Once you know which wireless adapter you have, google: *Wifi adapter not recognized Ubuntu <the name and model you got from previous step>*
 
-Hopefully, from that point on Google will provide you to some answers and you should find links that point you to the right direction. I encountered this problem with student on HP laptops (HP 15-da0xxx). Here is the solution I followed and it worked:
+Hopefully, from that point on Google will provide you to some answers and you should find links that point you to the right direction. I encountered this problem with students on HP laptops (HP 15-da0xxx). Here is the solution I followed and it worked:
 ```
 sudo apt-get install --reinstall git dkms build-essential linux-headers-$(uname -r)
 git clone https://github.com/tomaspinho/rtl8821ce
