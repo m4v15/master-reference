@@ -60,7 +60,7 @@ This means that you are missing the drivers for your Wifi adapter. It's fairly s
 - Connect your phone to your computer with USB cable and [enable USB tethering](https://www.youtube.com/watch?v=LvMZW_ztf14). This will allow you to have internet on the computer to be able to download the necessary tools and drivers.
 - Open Terminal and start by doing update and upgrade of the system:
 ```
-sudo apt-get update && apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade
 ```
 - install full linux headers and build packages, as well as git (most of the solutions are be hosted on Github).
 ```
