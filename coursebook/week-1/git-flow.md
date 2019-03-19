@@ -5,6 +5,7 @@
 - `git pull origin master` - get the most up to date version of master
 - `git checkout -b my-branch` - make and checkout to a new branch
 - \**make changes\**
+- `git status` - See the state of your branch after changes
 - `git add [FILES CHANGED]`
 - `git commit -m "my commit message here, relates #10"` - commit changes
 - `git push origin my-branch` - this pushes the branch up to the remote
