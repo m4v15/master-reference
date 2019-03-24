@@ -18,59 +18,58 @@
 
 #### Day 2
 
-- 8:30 - 10:00
+- 8:00 - 9:30
 -- [ES6 morning challenge](./morning-challenge-day-2.md)
 
-- 10:15 - 12:00
+- 9:30 - 11:00
 -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 2 of 2)
 
 — LUNCH —
 
-- 12:45 - 13:15
+- 11:30 - 12:00
 -- Intro to research topics for research afternoon
 
-- 13.15 - 15:00
+- 13:15 - 15:00
 -- [Research Afternoon](./research-afternoon.md)
 
-- 15.00 - 16:00
+- 14:30 - 15:30
 -- Present research topics
 
 
 #### Day 3
 
-- 8:30 - 9:45
+- 8:00 - 9:15
 -- [Modularisation morning challenge](./morning-challenge-day-3.md)
 
-- 10:00 - 12:00
+- 9:15 - 11:00
 -- Introduce + start project
 
 -- LUNCH --
 
-- 12:45 - 16:00
+- 11:30 - 15:30
 -- Projects
 
 
 #### Day 4
 
-- 8:30 - 15:00
+- 8:00 - 14:00
 -- Projects
-- 15:00 - 16:00
+- 14:00 - 15:30
 -- External speaker
 
 #### Day 5
 
-- 8:30 - 9:30
+- 8:00 - 9:00
 -- Code Review
 
-- 9:30 - 11:30
+- 9:00 - 11:00
 -- Respond to issues
 
 - 11:30 - 12:30
 -- Plan presentations
 
-- 13:15-14:15 -Presentations (20 mins per group)
+- 12:30-14:00 -Presentations (20 mins per group)
 
-- 14:30-15:00 - [Team retrospectives](./retrospectives.md#team-retrospective)
+- 14:00-15:30 - [Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective) and [Team retrospectives](./retrospectives.md#team-retrospective)
 
-- 15:00 - 16:00 - [Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
