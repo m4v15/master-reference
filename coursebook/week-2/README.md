@@ -10,7 +10,7 @@
 ### Week 2
 Day 1|Day 2|Day 3|Day 4| Day 5 
 ---|---|---|---|---
-**8:00 - 10:00** Intro To API/HTTP/FETCH/patterns|**8:00 - 9:00** FlexBox Morning Challenges |**8:00 - 9:30** Data Manipulation Morning Challenges| Projects| **8:00 - 9:30** Code review
+**8:00 - 10:00** Intro To API/HTTP/FETCH/patterns|**8:00 - 9:30** FlexBox Morning Challenges |**8:00 - 9:30** Data Manipulation Morning Challenges| Projects| **8:00 - 9:30** Code review
 **10:00 - 11:00** API WS |**9:00 - 11:00** Software Architechture Workshop|Projects (all day!)|| **9:30 - 11:00** Respond to issues
 **11:30 - 13:30** Continue API WS|**11:30-12:30** Intro to npm|||**11:30-12:30** Presentation planning
 **13:30 - 15:30** Callback WS|**12:30 - 15:30** Software Design WS||| **12:30 - 13:30** Presentations 
