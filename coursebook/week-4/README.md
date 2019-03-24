@@ -4,13 +4,16 @@
 
 #### Day 1
 
-- 8:30 - 12:00
+- 8:00 - 11:00
 -- Intro to servers and Node.js
-& [Node Intro Workshop](https://github.com/foundersandcoders/Node-Intro-Workshop)
+& [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
-- 12:45 - 15:00
+- 11:30 - 13:00
+-- [Node Intro Workshop](https://github.com/foundersandcoders/Node-Intro-Workshop)
+
+- 13:00 - 15:00
 -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 1 of 2)
-- 15:00 - 16:00
+- 15:00 - 15:30
 -- Q & A
 
 #### Day 2
