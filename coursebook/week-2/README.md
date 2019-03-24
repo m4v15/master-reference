@@ -12,7 +12,7 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 ---|---|---|---|---
 **8:00 - 10:00** Intro To API/HTTP/FETCH/patterns|**8:00 - 9:00** FlexBox Morning Challenges |**8:00 - 9:30** Data Manipulation Morning Challenges| Projects| **8:00 - 9:30** Code review
 **10:00 - 11:00** API WS |**9:00 - 11:00** Software Architechture Workshop|Projects (all day!)|| **9:30 - 11:00** Respond to issues
-**11:30 - 13:30** Continue API WS|**11:30-12:30** Event Loop Video|||**11:30-12:30** Presentation planning
+**11:30 - 13:30** Continue API WS|**11:30-12:30** Intro to npm|||**11:30-12:30** Presentation planning
 **13:30 - 15:30** Callback WS|**12:30 - 15:30** Software Design WS||| **12:30 - 13:30** Presentations 
 |||||**13:30-15:30** Stop Go Continues!
 
@@ -30,8 +30,9 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
 - [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 - [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
-- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
+- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s) *optional
 
 
 
