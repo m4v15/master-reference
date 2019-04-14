@@ -42,7 +42,7 @@
 -- [Modularisation morning challenge](./morning-challenge-day-3.md)
 
 - 9:15 - 11:00
--- Introduce + start project
+-- [Introduce + start project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-4/project.md)
 
 -- LUNCH --
 
