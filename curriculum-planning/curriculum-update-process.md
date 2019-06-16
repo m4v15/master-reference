@@ -7,7 +7,6 @@
 1. [Week by week schedule](#week-by-week-schedule)
 1. [Pros and Cons](#pros-and-cons)
 1. [Limits on power](#limits-on-power)
-1. [Historical context](#historical-context)
 1. [TLDR](#tldr)
 
 ## Why
@@ -132,16 +131,6 @@ MRM are not empowered to drive any changes they see fit. All reccommendations th
 
 This will be documented in a role description for the MRM.
 
-## Historical Context
- - FAC0 - 9 had no master reference, each week was taught with mostly non-FAC material chosen by mentors each week - was no real fixed structure
- - FAC9 students built the master reference, adding structure. This was necessary due to new campuses and the previous structure being somewhat unsustainable for that
- - FAC10/N/G1 were the first to be taught off the master reference
- - After these cohorts, curriculum planning involved each cohort going through the MR and coming up with suggested changes. Each change was then voted on by the entire community in a meeting
- - This worked to an extent but took a lot of time out of the curriculum and there was no real process for how changes might be affected - mostly fell to FAC10 students making a lot of (excellent) new material.
- - For FAC11/N/G2 curriculum planning (i.e. the most recent), the idea of week facilitators was introduced, each week would have a working group consisting of alumni and students from each campus
- - Again, worked to some extent, workload was spread out more easily, small changes were able to happen quicker
- - However, overview of the entire MR was lost, people were only really aware/could affect changes in their on week. Also responsibility for the changes was unclear, some week facilitators (alumni) being unsure of their role.
-
 ## TLDR
-Basically proposing something like the following:
+Basically proposing something like the following (diagram made for Founders & Coders):
 ![[flow chart]](https://files.gitter.im/eliascodes/HGin/curriculum-planning.png)

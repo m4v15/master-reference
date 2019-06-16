@@ -1,6 +1,6 @@
 # Coursebook
 
-Welcome to the coursebook for FAC!
+Welcome to the coursebook for LOTUS!
 
 For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
 

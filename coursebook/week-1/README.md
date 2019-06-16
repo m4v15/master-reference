@@ -11,16 +11,16 @@
 
 Day 1|Day 2|Day 3|Day 4| Day 5 
 ---|---|---|---|---
-Welcome fun ~**2hr** |DOM Morning Challenge ~**1hr**|CSS Morning Challenge ~**1hr**| Projects| **8:30 - 9:30** Code review (with how to)
+Welcome fun ~**2hr** |DOM Morning Challenge ~**1hr**|CSS Morning Challenge ~**1hr**| Projects| **8:00 - 9:30** Code review (with how to)
 Intro To PP ~**1hr**|Github Workshop ~**2hr**|Projects (all day!)|| **9:30 - 11:00** Respond to issues
-DOM Workshop ~**1hr**|Introduce Project and research ~**1hr**| ||**11:00-11:30** Presentation planning
-Github Hunt ~**1hr**|Research + Presentations ~**3hr**|||**11:30 - 12:30** Presentations 
-Intro to communal Decision making ~**1hr**||||**12:30 - 14:00** Stop Go Continues!
+DOM Workshop ~**1hr**|Introduce Project and research ~**1hr**| ||**11:30-12:00** Presentation planning
+Github Hunt ~**1hr**|Research + Presentations ~**3hr**|||**12:00 - 13:00** Presentations 
+Intro to communal Decision making ~**1hr**||||**13:00 - 15:30** Stop Go Continues!
 
 ### Links:
 
 #### Day 1
-- Welcome talk
+- [Welcome talk](https://docs.google.com/presentation/d/1s5uXgTOC2VUH9GVBqVYp3yP50p1MO-fa3WdJY6CDZb8/edit?usp=sharing)
 - [Schedule](../)
 - [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
@@ -37,7 +37,7 @@ Intro to communal Decision making ~**1hr**||||**12:30 - 14:00** Stop Go Continue
 
 #### Day 3
 - [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
-- [FAC Community talk](https://docs.google.com/presentation/d/1p-45WEiZ6QHacF9L-Xt1JwEpUrwgxHvLlgL5F-sw9os/edit?usp=sharing)
+- Community Talk
 
 #### Day 5
 - [How to Code review](./codereviewintro.md)

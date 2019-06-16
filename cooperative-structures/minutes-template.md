@@ -1,6 +1,6 @@
 # Template for Meeting Minutes
 
-Below is suggested template for taking meeting minutes at Founders & Coders business and committee meetings. 
+Below is suggested template for taking meeting minutes at Lotus business and committee meetings. 
 
 Minutes are a tangible record of the meeting for its participants and a source of information for members who were unable to attend. The `note-taker` does not need to record every word spoken, rather, minutes should synthesize the conversation and record:
 - Major questions or concerns
@@ -16,7 +16,7 @@ If the `note-taker` finds it useful to take word-for-word notes, it is suggested
 
 > Such as:
 >- September Business Meeting
->- London Membership Committee
+>- Lotus Membership Committee
 >- Course Facilitator Weekly Standup
 
 **Date:** 

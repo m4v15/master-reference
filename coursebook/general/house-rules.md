@@ -1,6 +1,6 @@
 # House Rules
 
-+ **Whilst you're a student, arrive on time & let people know in advance if you're going to be away**. Lots of people are giving freely of their time and knowledge to make FAC possible and giving up other commitments to be here.
++ **Whilst you're a student, arrive on time & let people know in advance if you're going to be away**. Lots of people are giving freely of their time and knowledge to make LOTUS possible and giving up other commitments to be here.
 
 +  **Tidy up after yourself** (at least!). With so many of us in the space, it's easy for the space to get dirty really quickly. Wash up your crockery rather than forgetting about it. :blush:
 

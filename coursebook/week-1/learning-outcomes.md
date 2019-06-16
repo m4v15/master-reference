@@ -1,8 +1,8 @@
 ## Learning outcomes
 This week you are going to learn about the basic tools required to work in a team and what it means to be a member of Founders and Coders:
 
-+ FAC values
-  + What does Founders and Coders and Gaza Sky Geeks stand for?
++ LOTUS values
+  + What does Lotus stand for and what is the Founders and Coders curriculum and methodology?
 + Responsibilities & house rules
   + What is expected from you
 + Semantic HTML
